@@ -1,0 +1,11 @@
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade2EFCore/obj/Debug/netcoreapp2.1/Atividade2EFCore.csprojAssemblyReference.cache
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade2EFCore/obj/Debug/netcoreapp2.1/Atividade2EFCore.csproj.CoreCompileInputs.cache
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade2EFCore/obj/Debug/netcoreapp2.1/Atividade2EFCore.AssemblyInfoInputs.cache
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade2EFCore/obj/Debug/netcoreapp2.1/Atividade2EFCore.AssemblyInfo.cs
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade2EFCore/bin/Debug/netcoreapp2.1/Atividade2EFCore.deps.json
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade2EFCore/bin/Debug/netcoreapp2.1/Atividade2EFCore.runtimeconfig.json
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade2EFCore/bin/Debug/netcoreapp2.1/Atividade2EFCore.runtimeconfig.dev.json
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade2EFCore/bin/Debug/netcoreapp2.1/Atividade2EFCore.dll
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade2EFCore/bin/Debug/netcoreapp2.1/Atividade2EFCore.pdb
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade2EFCore/obj/Debug/netcoreapp2.1/Atividade2EFCore.dll
+/home/paulo088/Documentos/Projetos/C#/Trabalho/Atividade2EFCore/obj/Debug/netcoreapp2.1/Atividade2EFCore.pdb
